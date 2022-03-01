@@ -21,9 +21,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 48px;
   font-weight: bold;
   color: rgb(0, 0, 0);
+  font-family: 'Road Rage', cursive;
+  font-size: 36px;
 }
 
 .App-link {
@@ -46,4 +47,13 @@ button {
   to {
     transform: rotate(360deg);
   }
+}
+
+.title {
+  margin-bottom: 0;
+  font-size: 72px;
+}
+
+p {
+  margin: 0;
 }

@@ -6,12 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h3>
+        <p className="title">
           Frozen Smoke Dispensary
-        </h3>
-        <h4>
+        </p>
+        <p>
+          500 US-50 #103, Gunnison, CO 81230
+        </p>
+        <h3>
           Are you over the age of 21?
-        </h4>
+        </h3>
         
         <container>
           <button>Yes</button>
