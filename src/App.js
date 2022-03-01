@@ -12,7 +12,7 @@ function App() {
         <p>
           500 US-50 #103, Gunnison, CO 81230
         </p>
-        <h3>
+        <h3 className="areYouTO">
           Are you over the age of 21?
         </h3>
         
