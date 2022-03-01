@@ -1,0 +1,22 @@
+h2 {
+    color: white;
+    padding: 25px;
+}
+
+.contact {
+    color: white;
+    padding: 5px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    align-items: center;
+    height: 700px;
+}
+
+label {
+    padding: 5px;
+}
+
