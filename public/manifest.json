@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "fsdfavicon.ico",
+      "src": "../src/assets/4800logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "fsdlogo192.png",
+      "src": "../src/assets/4800logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "fsdlogo512.png",
+      "src": "../src/assets/4800logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
